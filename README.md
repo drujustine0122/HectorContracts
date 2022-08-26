@@ -1,1 +1,1 @@
-# HectorContracts
+# hector-contracts
